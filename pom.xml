@@ -21,6 +21,18 @@
             <version>2.7.0</version>
             <scope>compiles</scope>
         </dependency>
+
+        <dependency>
+            <groupId>com.github.lalyos</groupId>
+            <artifactId>jfiglet</artifactId>
+            <version>0.0.9</version>
+        </dependency>
+
+        <dependency>
+            <groupId>net.glxn</groupId>
+            <artifactId>qrgen</artifactId>
+            <version>1.4</version>
+        </dependency>
     </dependencies>
 
 </project>
