@@ -1,0 +1,8 @@
+= DEPENDENCY MANAGER =
+-> scarica e gestisce le librerie da usare nei vari progetti
+C# -> nuget
+JS -> npm
+PY -> pip
+PHP -> composer
+C++ -> winget
+JAVA -> Maven / Gradle
